@@ -1,0 +1,7 @@
+# ------------------------------------------------------
+# ItemFrameProtector by TheNote - Config
+# ------------------------------------------------------
+
+# In welcherer Welt sollen Item-Frames Geschützt werden?
+ProtectedWorlds:
+- "world"
